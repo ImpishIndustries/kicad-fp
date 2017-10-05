@@ -1,3 +1,36 @@
 [submodule "kicad-fp-varistors"]
 	path = kicad-fp-varistors
 	url = git@github.com:ImpishIndustries/kicad-fp-varistors.git
+[submodule "kicad-fp-breakout-boards"]
+	path = kicad-fp-breakout-boards
+	url = git@github.com:ImpishIndustries/kicad-fp-breakout-boards.git
+[submodule "kicad-fp-capacitors-smd"]
+	path = kicad-fp-capacitors-smd
+	url = git@github.com:ImpishIndustries/kicad-fp-capacitors-smd.git
+[submodule "kicad-fp-connectors"]
+	path = kicad-fp-connectors
+	url = git@github.com:ImpishIndustries/kicad-fp-connectors.git
+[submodule "kicad-fp-dip"]
+	path = kicad-fp-dip
+	url = git@github.com:ImpishIndustries/kicad-fp-dip.git
+[submodule "kicad-fp-housings-do"]
+	path = kicad-fp-housings-do
+	url = git@github.com:ImpishIndustries/kicad-fp-housings-do.git
+[submodule "kicad-fp-housings-misc"]
+	path = kicad-fp-housings-misc
+	url = git@github.com:ImpishIndustries/kicad-fp-housings-misc.git
+[submodule "kicad-fp-housings-sot"]
+	path = kicad-fp-housings-sot
+	url = git@github.com:ImpishIndustries/kicad-fp-housings-sot.git
+[submodule "kicad-fp-housings-to"]
+	path = kicad-fp-housings-to
+	url = git@github.com:ImpishIndustries/kicad-fp-housings-to.git
+[submodule "kicad-fp-inductors"]
+	path = kicad-fp-inductors
+	url = git@github.com:ImpishIndustries/kicad-fp-inductors.git
+[submodule "kicad-fp-sensors"]
+	path = kicad-fp-sensors
+	url = git@github.com:ImpishIndustries/kicad-fp-sensors.git
+[submodule "kicad-fp-sockets"]
+	path = kicad-fp-sockets
+	url = git@github.com:ImpishIndustries/kicad-fp-sockets.git
