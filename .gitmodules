@@ -1,0 +1,3 @@
+[submodule "kicad-fp-varistors"]
+	path = kicad-fp-varistors
+	url = git@github.com:ImpishIndustries/kicad-fp-varistors.git
